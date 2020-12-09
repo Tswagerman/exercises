@@ -1,0 +1,5 @@
+string/string.o: string/string.cc string/string.ih string/string.h
+
+string/string.ih:
+
+string/string.h:
