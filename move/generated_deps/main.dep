@@ -1,5 +1,14 @@
-main.o: main.cc string/string.ih string/string.h
+main.o: main.cc string/string.ih string/string.h page/page.ih page/page.h \
+ book/book.ih book/book.h
 
 string/string.ih:
 
 string/string.h:
+
+page/page.ih:
+
+page/page.h:
+
+book/book.ih:
+
+book/book.h:

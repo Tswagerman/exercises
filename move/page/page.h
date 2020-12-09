@@ -6,6 +6,7 @@
 class page
 {
     size_t d_pageNumber;
+    
     public:
         page();
 

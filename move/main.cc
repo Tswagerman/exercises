@@ -1,7 +1,7 @@
 //#define XERR
 #include "string/string.ih"
-#include "page/string.ih"
-#include "book/string.ih"
+#include "page/page.ih"
+#include "book/book.ih"
 
 int main()
 {

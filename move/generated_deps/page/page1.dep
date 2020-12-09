@@ -1,0 +1,5 @@
+page/page1.o: page/page1.cc page/page.ih page/page.h
+
+page/page.ih:
+
+page/page.h:

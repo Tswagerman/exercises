@@ -1,0 +1,5 @@
+book/book1.o: book/book1.cc book/book.ih book/book.h
+
+book/book.ih:
+
+book/book.h:
